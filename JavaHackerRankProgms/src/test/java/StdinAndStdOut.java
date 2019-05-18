@@ -21,6 +21,7 @@ public class StdinAndStdOut {
         System.out.println("Fourth");
         System.out.println("Fifth");
         System.out.println("sixth");
+        System.out.println("Seventh");
     }
 
 }

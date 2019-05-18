@@ -15,6 +15,9 @@ public class StdinAndStdOut {
         System.out.println("String: " + s);
         System.out.println("Double: " + y);
         System.out.println("Int: " + i);
-
+        System.out.println("First Commit Testing");
+        System.out.println("Second Commit Testing");
+        System.out.println("Third");
     }
+
 }
